@@ -1,0 +1,13 @@
+Data from AIMA Figure 18.13 for the WillWait example
+
+Alternate: Yes/No
+Bar: Yes/No
+Fri/Sat: Yes/No
+Hungry: Yes/No
+Patrons: None/Some/Full
+Price: $/$$/$$$
+Rainng: Yes/No
+Reservation: Yes/No
+Type: French/Italian/Thai/Burger
+WaitEstimate: 0-10/10-30/30-60/>60
+WillWait: Yes/No

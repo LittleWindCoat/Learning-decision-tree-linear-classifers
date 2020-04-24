@@ -1,0 +1,5 @@
+I made a ``numerical'' version of the house-votes-84 dataset by replacing
+input attributes as follows: y=1, n=-1, ?=0.
+And then class labels republican=0 and democrat=1.
+
+See ../../dt/example/house-votes-84.names.txt for details about the dataset.
